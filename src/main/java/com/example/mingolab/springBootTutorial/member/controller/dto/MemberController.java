@@ -6,7 +6,6 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.mingolab.springBootTutorial.member.repository.entity.Member;
 import com.example.mingolab.springBootTutorial.member.service.MemberService;
 
 import lombok.RequiredArgsConstructor;
